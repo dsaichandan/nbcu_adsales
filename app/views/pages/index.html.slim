@@ -1,3 +1,11 @@
+javascript:
+  $(function() {
+    var randomColor = Math.floor(Math.random()*16777215).toString(16);
+    $("body").css({
+        backgroundColor: '#' + randomColor
+    });
+  });
+
 .center-of-page
   h1 NBCU Twitter Analysis
   h3 Can relevant tweets lead to higher CTR's?
