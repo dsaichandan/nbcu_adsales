@@ -11,5 +11,6 @@ gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'pg'
-gem "slim-rails"
+gem 'slim-rails'
 gem 'd3js-rails'
+gem 'rails_12factor'
