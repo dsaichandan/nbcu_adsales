@@ -14,5 +14,3 @@ gem 'pg'
 gem 'slim-rails'
 gem 'd3js-rails'
 gem 'rails_12factor'
-
-#test
